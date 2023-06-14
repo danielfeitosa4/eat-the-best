@@ -16,6 +16,7 @@ body {
   background-image: url(../images/mockup-sticker-glau.png);
   background-repeat: no-repeat;
   background-size: cover;
+  height: 100vh;
 }
 
 /* Topo */
@@ -42,6 +43,10 @@ body {
   padding: 0.5rem;
   width: 172px;
   height: 216px;
+}
+
+.borderGreen {
+  border: 5px solid green !important;
 }
 
 .image-cards {
